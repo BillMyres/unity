@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ABE17E3C-C917-A0C7-119D-72E1B02C6405}") = "Cekeh.Zedus", "Assembly-CSharp.csproj", "{FA855013-6A7B-8383-9184-77C24F8BC866}"
+EndProject
+Project("{ABE17E3C-C917-A0C7-119D-72E1B02C6405}") = "Cekeh.Zedus", "Assembly-CSharp-Editor.csproj", "{090FEB30-5366-9FFB-FC31-B61A830359D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA855013-6A7B-8383-9184-77C24F8BC866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA855013-6A7B-8383-9184-77C24F8BC866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA855013-6A7B-8383-9184-77C24F8BC866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA855013-6A7B-8383-9184-77C24F8BC866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090FEB30-5366-9FFB-FC31-B61A830359D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090FEB30-5366-9FFB-FC31-B61A830359D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090FEB30-5366-9FFB-FC31-B61A830359D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090FEB30-5366-9FFB-FC31-B61A830359D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 55576a6018067224fb0ee2e9fa74ea4d
+timeCreated: 1493789661
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Barrel
+    100004: Bit.001
+    100006: Bit.001 1
+    100008: Bit.001_end
+    100010: Bit.002
+    100012: Bit.002 1
+    100014: Bit.002_end
+    100016: Bit.003
+    100018: Bit.003 1
+    100020: Bit.003_end
+    100022: Cylinder.002
+    100024: Cylinder.003
+    100026: Drill
+    100028: Drill 1
+    100030: Foot.001
+    100032: Foot.002
+    100034: Foot.003
+    100036: Housing
+    100038: Housing_end
+    100040: Leg.001
+    100042: Leg.002
+    100044: Leg.003
+    100046: //RootNode
+    100048: ShockA.000
+    100050: ShockA.001
+    100052: ShockA.002
+    100054: ShockB.001
+    100056: ShockB.002
+    100058: ShockB.003
+    100060: Sphere
+    100062: Thruster
+    400000: Armature
+    400002: Barrel
+    400004: Bit.001
+    400006: Bit.001 1
+    400008: Bit.001_end
+    400010: Bit.002
+    400012: Bit.002 1
+    400014: Bit.002_end
+    400016: Bit.003
+    400018: Bit.003 1
+    400020: Bit.003_end
+    400022: Cylinder.002
+    400024: Cylinder.003
+    400026: Drill
+    400028: Drill 1
+    400030: Foot.001
+    400032: Foot.002
+    400034: Foot.003
+    400036: Housing
+    400038: Housing_end
+    400040: Leg.001
+    400042: Leg.002
+    400044: Leg.003
+    400046: //RootNode
+    400048: ShockA.000
+    400050: ShockA.001
+    400052: ShockA.002
+    400054: ShockB.001
+    400056: ShockB.002
+    400058: ShockB.003
+    400060: Sphere
+    400062: Thruster
+    2300000: Barrel
+    2300002: Bit.001 1
+    2300004: Bit.002 1
+    2300006: Bit.003 1
+    2300008: Cylinder.002
+    2300010: Cylinder.003
+    2300012: Drill 1
+    2300014: Foot.001
+    2300016: Foot.002
+    2300018: Foot.003
+    2300020: Leg.001
+    2300022: Leg.002
+    2300024: Leg.003
+    2300026: ShockA.000
+    2300028: ShockA.001
+    2300030: ShockA.002
+    2300032: ShockB.001
+    2300034: ShockB.002
+    2300036: ShockB.003
+    2300038: Sphere
+    3300000: Barrel
+    3300002: Bit.001 1
+    3300004: Bit.002 1
+    3300006: Bit.003 1
+    3300008: Cylinder.002
+    3300010: Cylinder.003
+    3300012: Drill 1
+    3300014: Foot.001
+    3300016: Foot.002
+    3300018: Foot.003
+    3300020: Leg.001
+    3300022: Leg.002
+    3300024: Leg.003
+    3300026: ShockA.000
+    3300028: ShockA.001
+    3300030: ShockA.002
+    3300032: ShockB.001
+    3300034: ShockB.002
+    3300036: ShockB.003
+    3300038: Sphere
+    4300000: Foot.003
+    4300002: Leg.003
+    4300004: ShockA.000
+    4300006: Sphere
+    4300008: Drill
+    4300010: Bit.001
+    4300012: Bit.002
+    4300014: Bit.003
+    4300016: ShockB.003
+    4300018: Cylinder.003
+    4300020: Cylinder.002
+    4300022: Barrel
+    7400000: Armature|Deploy.001
+    7400002: Armature|IdleWithoutProbe
+    7400004: Armature|IdleWithProbe
+    7400006: Armature|Deploy
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Deploy.001
+      takeName: Armature|Deploy.001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Housing
+        weight: 1
+      - path: Armature/Housing/Cylinder.002
+        weight: 1
+      - path: Armature/Housing/Cylinder.003
+        weight: 1
+      - path: Armature/Housing/Housing_end
+        weight: 1
+      - path: Armature/Housing/ShockB.001
+        weight: 1
+      - path: Armature/Housing/ShockB.002
+        weight: 1
+      - path: Armature/Housing/ShockB.003
+        weight: 1
+      - path: Armature/Thruster
+        weight: 1
+      - path: Armature/Thruster/Drill
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Drill 1
+        weight: 1
+      - path: Armature/Thruster/Sphere
+        weight: 1
+      - path: Barrel
+        weight: 1
+      - path: Foot.001
+        weight: 1
+      - path: Foot.002
+        weight: 1
+      - path: Foot.003
+        weight: 1
+      - path: Leg.001
+        weight: 1
+      - path: Leg.002
+        weight: 1
+      - path: Leg.003
+        weight: 1
+      - path: ShockA.000
+        weight: 1
+      - path: ShockA.001
+        weight: 1
+      - path: ShockA.002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|IdleWithoutProbe
+      takeName: Armature|IdleWithoutProbe
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Housing
+        weight: 1
+      - path: Armature/Housing/Cylinder.002
+        weight: 1
+      - path: Armature/Housing/Cylinder.003
+        weight: 1
+      - path: Armature/Housing/Housing_end
+        weight: 1
+      - path: Armature/Housing/ShockB.001
+        weight: 1
+      - path: Armature/Housing/ShockB.002
+        weight: 1
+      - path: Armature/Housing/ShockB.003
+        weight: 1
+      - path: Armature/Thruster
+        weight: 1
+      - path: Armature/Thruster/Drill
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Drill 1
+        weight: 1
+      - path: Armature/Thruster/Sphere
+        weight: 1
+      - path: Barrel
+        weight: 1
+      - path: Foot.001
+        weight: 1
+      - path: Foot.002
+        weight: 1
+      - path: Foot.003
+        weight: 1
+      - path: Leg.001
+        weight: 1
+      - path: Leg.002
+        weight: 1
+      - path: Leg.003
+        weight: 1
+      - path: ShockA.000
+        weight: 1
+      - path: ShockA.001
+        weight: 1
+      - path: ShockA.002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|IdleWithProbe
+      takeName: Armature|IdleWithProbe
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Housing
+        weight: 1
+      - path: Armature/Housing/Cylinder.002
+        weight: 1
+      - path: Armature/Housing/Cylinder.003
+        weight: 1
+      - path: Armature/Housing/Housing_end
+        weight: 1
+      - path: Armature/Housing/ShockB.001
+        weight: 1
+      - path: Armature/Housing/ShockB.002
+        weight: 1
+      - path: Armature/Housing/ShockB.003
+        weight: 1
+      - path: Armature/Thruster
+        weight: 1
+      - path: Armature/Thruster/Drill
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Drill 1
+        weight: 1
+      - path: Armature/Thruster/Sphere
+        weight: 1
+      - path: Barrel
+        weight: 1
+      - path: Foot.001
+        weight: 1
+      - path: Foot.002
+        weight: 1
+      - path: Foot.003
+        weight: 1
+      - path: Leg.001
+        weight: 1
+      - path: Leg.002
+        weight: 1
+      - path: Leg.003
+        weight: 1
+      - path: ShockA.000
+        weight: 1
+      - path: ShockA.001
+        weight: 1
+      - path: ShockA.002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Deploy
+      takeName: Armature|Deploy
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Housing
+        weight: 1
+      - path: Armature/Housing/Cylinder.002
+        weight: 1
+      - path: Armature/Housing/Cylinder.003
+        weight: 1
+      - path: Armature/Housing/Housing_end
+        weight: 1
+      - path: Armature/Housing/ShockB.001
+        weight: 1
+      - path: Armature/Housing/ShockB.002
+        weight: 1
+      - path: Armature/Housing/ShockB.003
+        weight: 1
+      - path: Armature/Thruster
+        weight: 1
+      - path: Armature/Thruster/Drill
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.001/Bit.001_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.002/Bit.002_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003 1
+        weight: 1
+      - path: Armature/Thruster/Drill/Bit.003/Bit.003_end
+        weight: 1
+      - path: Armature/Thruster/Drill/Drill 1
+        weight: 1
+      - path: Armature/Thruster/Sphere
+        weight: 1
+      - path: Barrel
+        weight: 1
+      - path: Foot.001
+        weight: 1
+      - path: Foot.002
+        weight: 1
+      - path: Foot.003
+        weight: 1
+      - path: Leg.001
+        weight: 1
+      - path: Leg.002
+        weight: 1
+      - path: Leg.003
+        weight: 1
+      - path: ShockA.000
+        weight: 1
+      - path: ShockA.001
+        weight: 1
+      - path: ShockA.002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

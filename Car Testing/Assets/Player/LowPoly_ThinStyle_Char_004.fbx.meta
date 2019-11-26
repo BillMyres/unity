@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: 0f2dc99712d30654490f6994f608ab26
+timeCreated: 1490954818
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Body.001
+    100006: Body.002
+    100008: Body.003
+    100010: Body.004
+    100012: Cape.001
+    100014: Cape.002
+    100016: Cape.003
+    100018: Cape.004
+    100020: Cape.005
+    100022: Cape.006
+    100024: Cape.007
+    100026: Cape.007_end
+    100028: Foot.L
+    100030: Foot.R
+    100032: FootControl.L
+    100034: FootControl.R
+    100036: FootRoll.L
+    100038: FootRoll.R
+    100040: Hand.L
+    100042: Hand.L_end
+    100044: Hand.R
+    100046: Hand.R_end
+    100048: Head
+    100050: Head_end
+    100052: Hemi
+    100054: Hip.L
+    100056: Hip.R
+    100058: Knee.IK.L
+    100060: Knee.IK.L_end
+    100062: Knee.IK.R
+    100064: Knee.IK.R_end
+    100066: Leg.IK.L
+    100068: Leg.IK.L_end
+    100070: Leg.IK.R
+    100072: Leg.IK.R_end
+    100074: Legs
+    100076: LowerArm.L
+    100078: LowerArm.R
+    100080: LowerBody
+    100082: LowerLeg.L
+    100084: LowerLeg.L_end
+    100086: LowerLeg.R
+    100088: LowerLeg.R_end
+    100090: //RootNode
+    100092: Neck
+    100094: Plane
+    100096: Root
+    100098: Shoulder.L
+    100100: Shoulder.R
+    100102: Sword
+    100104: Toe.L
+    100106: Toe.L_end
+    100108: Toe.R
+    100110: Toe.R_end
+    100112: ToeControl.L
+    100114: ToeControl.L_end
+    100116: ToeControl.R
+    100118: ToeControl.R_end
+    100120: UpperArm.L
+    100122: UpperArm.R
+    100124: UpperBody
+    100126: UpperLeg.L
+    100128: UpperLeg.R
+    400000: Armature
+    400002: Body
+    400004: Body.001
+    400006: Body.002
+    400008: Body.003
+    400010: Body.004
+    400012: Cape.001
+    400014: Cape.002
+    400016: Cape.003
+    400018: Cape.004
+    400020: Cape.005
+    400022: Cape.006
+    400024: Cape.007
+    400026: Cape.007_end
+    400028: Foot.L
+    400030: Foot.R
+    400032: FootControl.L
+    400034: FootControl.R
+    400036: FootRoll.L
+    400038: FootRoll.R
+    400040: Hand.L
+    400042: Hand.L_end
+    400044: Hand.R
+    400046: Hand.R_end
+    400048: Head
+    400050: Head_end
+    400052: Hemi
+    400054: Hip.L
+    400056: Hip.R
+    400058: Knee.IK.L
+    400060: Knee.IK.L_end
+    400062: Knee.IK.R
+    400064: Knee.IK.R_end
+    400066: Leg.IK.L
+    400068: Leg.IK.L_end
+    400070: Leg.IK.R
+    400072: Leg.IK.R_end
+    400074: Legs
+    400076: LowerArm.L
+    400078: LowerArm.R
+    400080: LowerBody
+    400082: LowerLeg.L
+    400084: LowerLeg.L_end
+    400086: LowerLeg.R
+    400088: LowerLeg.R_end
+    400090: //RootNode
+    400092: Neck
+    400094: Plane
+    400096: Root
+    400098: Shoulder.L
+    400100: Shoulder.R
+    400102: Sword
+    400104: Toe.L
+    400106: Toe.L_end
+    400108: Toe.R
+    400110: Toe.R_end
+    400112: ToeControl.L
+    400114: ToeControl.L_end
+    400116: ToeControl.R
+    400118: ToeControl.R_end
+    400120: UpperArm.L
+    400122: UpperArm.R
+    400124: UpperBody
+    400126: UpperLeg.L
+    400128: UpperLeg.R
+    2300000: Body.002
+    2300002: Plane
+    2300004: Sword
+    3300000: Body.002
+    3300002: Plane
+    3300004: Sword
+    4300000: Plane
+    4300002: Body.002
+    4300004: Sword
+    4300006: Body
+    4300008: Legs
+    4300010: Body.003
+    4300012: Body.004
+    4300014: Body.001
+    7400000: Armature|Idle
+    7400002: Armature|Jog
+    7400004: Armature|Jog.001
+    7400006: Armature|Walk
+    9500000: //RootNode
+    13700000: Body
+    13700002: Body.001
+    13700004: Body.003
+    13700006: Body.004
+    13700008: Legs
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FootControl.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L/Leg.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L/Knee.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L/ToeControl.L_end
+        weight: 1
+      - path: Armature/FootControl.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R/Leg.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R/Knee.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R/ToeControl.R_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hip.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L/LowerLeg.L_end
+        weight: 1
+      - path: Armature/Root/Hip.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R/LowerLeg.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007/Cape.007_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Body.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Head_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Plane
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Sword
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body.001
+        weight: 1
+      - path: Body.003
+        weight: 1
+      - path: Body.004
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Legs
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Jog
+      takeName: Armature|Jog
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FootControl.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L/Leg.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L/Knee.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L/ToeControl.L_end
+        weight: 1
+      - path: Armature/FootControl.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R/Leg.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R/Knee.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R/ToeControl.R_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hip.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L/LowerLeg.L_end
+        weight: 1
+      - path: Armature/Root/Hip.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R/LowerLeg.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007/Cape.007_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Body.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Head_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Plane
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Sword
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body.001
+        weight: 1
+      - path: Body.003
+        weight: 1
+      - path: Body.004
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Legs
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Jog.001
+      takeName: Armature|Jog.001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FootControl.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L/Leg.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L/Knee.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L/ToeControl.L_end
+        weight: 1
+      - path: Armature/FootControl.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R/Leg.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R/Knee.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R/ToeControl.R_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hip.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L/LowerLeg.L_end
+        weight: 1
+      - path: Armature/Root/Hip.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R/LowerLeg.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007/Cape.007_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Body.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Head_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Plane
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Sword
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body.001
+        weight: 1
+      - path: Body.003
+        weight: 1
+      - path: Body.004
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Legs
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/FootControl.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/FootControl.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/FootRoll.L/Leg.IK.L/Leg.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L
+        weight: 1
+      - path: Armature/FootControl.L/Knee.IK.L/Knee.IK.L_end
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L
+        weight: 1
+      - path: Armature/FootControl.L/ToeControl.L/ToeControl.L_end
+        weight: 1
+      - path: Armature/FootControl.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/FootControl.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/FootRoll.R/Leg.IK.R/Leg.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R
+        weight: 1
+      - path: Armature/FootControl.R/Knee.IK.R/Knee.IK.R_end
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R
+        weight: 1
+      - path: Armature/FootControl.R/ToeControl.R/ToeControl.R_end
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hip.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Root/Hip.L/UpperLeg.L/LowerLeg.L/LowerLeg.L_end
+        weight: 1
+      - path: Armature/Root/Hip.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Root/Hip.R/UpperLeg.R/LowerLeg.R/LowerLeg.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Cape.001/Cape.002/Cape.003/Cape.004/Cape.005/Cape.006/Cape.007/Cape.007_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Body.002
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Neck/Head/Head_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Plane
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 1
+      - path: Armature/Root/LowerBody/UpperBody/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Sword
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body.001
+        weight: 1
+      - path: Body.003
+        weight: 1
+      - path: Body.004
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Legs
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
