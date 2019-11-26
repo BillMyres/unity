@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 1edea1a90293f0e4ea59fb564c5082c0
+timeCreated: 1472432618
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: chest
+    100004: foot.L
+    100006: foot.L_end
+    100008: foot.R
+    100010: foot.R_end
+    100012: forearm.L
+    100014: forearm.R
+    100016: hand.baby.1.L
+    100018: hand.baby.1.R
+    100020: hand.baby.2.L
+    100022: hand.baby.2.R
+    100024: hand.baby.3.L
+    100026: hand.baby.3.L_end
+    100028: hand.baby.3.R
+    100030: hand.baby.4.R
+    100032: hand.baby.4.R_end
+    100034: hand.baby.L
+    100036: hand.index.1.L
+    100038: hand.index.1.R
+    100040: hand.index.2.L
+    100042: hand.index.2.R
+    100044: hand.index.3.L
+    100046: hand.index.3.L_end
+    100048: hand.index.3.R
+    100050: hand.index.4.R
+    100052: hand.index.4.R_end
+    100054: hand.index.L
+    100056: hand.middle.1.L
+    100058: hand.middle.1.R
+    100060: hand.middle.2.L
+    100062: hand.middle.2.R
+    100064: hand.middle.3.L
+    100066: hand.middle.3.L_end
+    100068: hand.middle.3.R
+    100070: hand.middle.4.R
+    100072: hand.middle.4.R_end
+    100074: hand.middle.L
+    100076: hand.ring.1.L
+    100078: hand.ring.1.R
+    100080: hand.ring.2.L
+    100082: hand.ring.2.R
+    100084: hand.ring.3.L
+    100086: hand.ring.3.L_end
+    100088: hand.ring.3.R
+    100090: hand.ring.4.R
+    100092: hand.ring.4.R_end
+    100094: hand.ring.L
+    100096: hand.thumb.1.L
+    100098: hand.thumb.1.R
+    100100: hand.thumb.2.L
+    100102: hand.thumb.2.R
+    100104: hand.thumb.3.L
+    100106: hand.thumb.3.L_end
+    100108: hand.thumb.3.R
+    100110: hand.thumb.4.R
+    100112: hand.thumb.4.R_end
+    100114: hand.thumb.L
+    100116: head
+    100118: head_end
+    100120: hip
+    100122: hip.L
+    100124: hip.R
+    100126: neck
+    100128: Plane
+    100130: //RootNode
+    100132: shin.L
+    100134: shin.R
+    100136: shoulder.L
+    100138: shoulder.R
+    100140: spine
+    100142: thigh.L
+    100144: thigh.R
+    100146: upperarm.L
+    100148: upperarm.R
+    100150: wrist.L
+    100152: wrist.R
+    400000: Armature
+    400002: chest
+    400004: foot.L
+    400006: foot.L_end
+    400008: foot.R
+    400010: foot.R_end
+    400012: forearm.L
+    400014: forearm.R
+    400016: hand.baby.1.L
+    400018: hand.baby.1.R
+    400020: hand.baby.2.L
+    400022: hand.baby.2.R
+    400024: hand.baby.3.L
+    400026: hand.baby.3.L_end
+    400028: hand.baby.3.R
+    400030: hand.baby.4.R
+    400032: hand.baby.4.R_end
+    400034: hand.baby.L
+    400036: hand.index.1.L
+    400038: hand.index.1.R
+    400040: hand.index.2.L
+    400042: hand.index.2.R
+    400044: hand.index.3.L
+    400046: hand.index.3.L_end
+    400048: hand.index.3.R
+    400050: hand.index.4.R
+    400052: hand.index.4.R_end
+    400054: hand.index.L
+    400056: hand.middle.1.L
+    400058: hand.middle.1.R
+    400060: hand.middle.2.L
+    400062: hand.middle.2.R
+    400064: hand.middle.3.L
+    400066: hand.middle.3.L_end
+    400068: hand.middle.3.R
+    400070: hand.middle.4.R
+    400072: hand.middle.4.R_end
+    400074: hand.middle.L
+    400076: hand.ring.1.L
+    400078: hand.ring.1.R
+    400080: hand.ring.2.L
+    400082: hand.ring.2.R
+    400084: hand.ring.3.L
+    400086: hand.ring.3.L_end
+    400088: hand.ring.3.R
+    400090: hand.ring.4.R
+    400092: hand.ring.4.R_end
+    400094: hand.ring.L
+    400096: hand.thumb.1.L
+    400098: hand.thumb.1.R
+    400100: hand.thumb.2.L
+    400102: hand.thumb.2.R
+    400104: hand.thumb.3.L
+    400106: hand.thumb.3.L_end
+    400108: hand.thumb.3.R
+    400110: hand.thumb.4.R
+    400112: hand.thumb.4.R_end
+    400114: hand.thumb.L
+    400116: head
+    400118: head_end
+    400120: hip
+    400122: hip.L
+    400124: hip.R
+    400126: neck
+    400128: Plane
+    400130: //RootNode
+    400132: shin.L
+    400134: shin.R
+    400136: shoulder.L
+    400138: shoulder.R
+    400140: spine
+    400142: thigh.L
+    400144: thigh.R
+    400146: upperarm.L
+    400148: upperarm.R
+    400150: wrist.L
+    400152: wrist.R
+    4300000: Plane
+    7400000: Armature|Idle
+    7400002: Armature|Walk
+    9500000: //RootNode
+    13700000: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/spine
+        weight: 1
+      - path: Armature/hip/spine/chest
+        weight: 1
+      - path: Armature/hip/spine/chest/neck
+        weight: 1
+      - path: Armature/hip/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hip/spine/chest/neck/head/head_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L/hand.baby.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L/hand.baby.2.L/hand.baby.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L/hand.baby.2.L/hand.baby.3.L/hand.baby.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L/hand.index.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L/hand.index.2.L/hand.index.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L/hand.index.2.L/hand.index.3.L/hand.index.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L/hand.middle.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L/hand.middle.2.L/hand.middle.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L/hand.middle.2.L/hand.middle.3.L/hand.middle.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L/hand.ring.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L/hand.ring.2.L/hand.ring.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L/hand.ring.2.L/hand.ring.3.L/hand.ring.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L/hand.thumb.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L/hand.thumb.2.L/hand.thumb.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L/hand.thumb.2.L/hand.thumb.3.L/hand.thumb.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R/hand.baby.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R/hand.baby.3.R/hand.baby.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R/hand.baby.3.R/hand.baby.4.R/hand.baby.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R/hand.index.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R/hand.index.3.R/hand.index.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R/hand.index.3.R/hand.index.4.R/hand.index.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R/hand.middle.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R/hand.middle.3.R/hand.middle.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R/hand.middle.3.R/hand.middle.4.R/hand.middle.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R/hand.ring.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R/hand.ring.3.R/hand.ring.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R/hand.ring.3.R/hand.ring.4.R/hand.ring.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R/hand.thumb.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R/hand.thumb.3.R/hand.thumb.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R/hand.thumb.3.R/hand.thumb.4.R/hand.thumb.4.R_end
+        weight: 1
+      - path: Armature/hip.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/hip.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/spine
+        weight: 1
+      - path: Armature/hip/spine/chest
+        weight: 1
+      - path: Armature/hip/spine/chest/neck
+        weight: 1
+      - path: Armature/hip/spine/chest/neck/head
+        weight: 1
+      - path: Armature/hip/spine/chest/neck/head/head_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L/hand.baby.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L/hand.baby.2.L/hand.baby.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.baby.L/hand.baby.1.L/hand.baby.2.L/hand.baby.3.L/hand.baby.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L/hand.index.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L/hand.index.2.L/hand.index.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.index.L/hand.index.1.L/hand.index.2.L/hand.index.3.L/hand.index.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L/hand.middle.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L/hand.middle.2.L/hand.middle.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.middle.L/hand.middle.1.L/hand.middle.2.L/hand.middle.3.L/hand.middle.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L/hand.ring.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L/hand.ring.2.L/hand.ring.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.ring.L/hand.ring.1.L/hand.ring.2.L/hand.ring.3.L/hand.ring.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L/hand.thumb.2.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L/hand.thumb.2.L/hand.thumb.3.L
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.L/upperarm.L/forearm.L/wrist.L/hand.thumb.L/hand.thumb.1.L/hand.thumb.2.L/hand.thumb.3.L/hand.thumb.3.L_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R/hand.baby.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R/hand.baby.3.R/hand.baby.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.baby.1.R/hand.baby.2.R/hand.baby.3.R/hand.baby.4.R/hand.baby.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R/hand.index.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R/hand.index.3.R/hand.index.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.index.1.R/hand.index.2.R/hand.index.3.R/hand.index.4.R/hand.index.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R/hand.middle.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R/hand.middle.3.R/hand.middle.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.middle.1.R/hand.middle.2.R/hand.middle.3.R/hand.middle.4.R/hand.middle.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R/hand.ring.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R/hand.ring.3.R/hand.ring.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.ring.1.R/hand.ring.2.R/hand.ring.3.R/hand.ring.4.R/hand.ring.4.R_end
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R/hand.thumb.3.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R/hand.thumb.3.R/hand.thumb.4.R
+        weight: 1
+      - path: Armature/hip/spine/chest/shoulder.R/upperarm.R/forearm.R/wrist.R/hand.thumb.1.R/hand.thumb.2.R/hand.thumb.3.R/hand.thumb.4.R/hand.thumb.4.R_end
+        weight: 1
+      - path: Armature/hip.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L/shin.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Armature/hip.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/hip.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R/shin.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Armature/hip.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
